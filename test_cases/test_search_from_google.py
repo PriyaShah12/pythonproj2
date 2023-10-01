@@ -24,7 +24,7 @@ class Test_search:
             print(x.text)
 
     def test_search_shoes(self, init_driver):
-        print("I am in test_search_result")
+        print("I am in test_search_shoes method")
         self.driver = init_driver
         print("Driver is -> ", self.driver)
         # self.bp = BasePage(self.driver)
