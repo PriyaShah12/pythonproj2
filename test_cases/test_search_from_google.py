@@ -53,3 +53,6 @@ class Test_search:
         for x in all_links:
             print(x.text)
 
+    def test_search_toys(self):
+        pass
+
