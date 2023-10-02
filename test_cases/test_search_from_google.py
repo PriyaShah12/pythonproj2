@@ -56,3 +56,6 @@ class Test_search:
     def test_search_toys(self):
         pass
 
+    def test_search_bags(self):
+        pass
+
